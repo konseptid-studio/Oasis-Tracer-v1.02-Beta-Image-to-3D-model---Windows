@@ -8,3 +8,5 @@ You are free to use the generated 3D models (STL/3MF) commercially.
 You may not redistribute or sell the Oasis Tracer program itself.
 
 See `LICENSE`, `EULA.txt` and `THIRD_PARTY_LICENSES.txt` for details.
+
+Download at: https://cults3d.com/en/3d-model/tool/oasis-tracer-v1-02-beta-image-to-3d-print
