@@ -1,0 +1,22 @@
+Oasis Tracer uses the following third-party libraries:
+
+1. Clipper2
+   Copyright © Angus Johnson
+   License: Boost Software License 1.0
+   (Full text: https://www.boost.org/LICENSE_1_0.txt)
+
+   Permission is hereby granted, free of charge, to any person or organization
+   obtaining a copy of the software to use, reproduce, display, distribute,
+   execute, and transmit the Software, and to prepare derivative works...
+
+2. lunasvg
+   Copyright © 2020-2026 the lunasvg authors
+   License: MIT License
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files to deal in the Software
+   without restriction, including without limitation the rights to use, copy,
+   modify, merge, publish, distribute, sublicense, and/or sell copies of the
+   Software...
+
+The full license texts are included above or at the official repositories.

@@ -1,0 +1,126 @@
+# Oasis Tracer v1.02
+
+Oasis Tracer is a Windows x64 image-to-STL / SVG / 3MF generator designed for multicolor 3D printing, segmented relief artwork, decals, lightboxes and layered manufacturing workflows.
+
+The program converts images into physically separated printable geometry while preserving clean boundaries, color regions and manufacturing stability.
+
+---
+
+# Main Features
+
+* Loads common image formats (PNG, JPG with alpha transparency and more)
+* Intelligent image separation using advanced quantization and post-processing
+* Clean vector polygon generation with hole preservation
+* Separate STL export per region/color
+* SVG outline export for CNC and laser workflows
+* Assembled 3MF export support
+* Lightbox generation with wall, raft and filler strip support
+* Blend modifier system for physical color transitions
+* Physical manufacturing-oriented geometry generation
+* Stable slicing-oriented segmented workflow
+
+---
+
+# Advanced Workflow Support
+
+Oasis Tracer allows:
+
+* selective STL extraction
+* TPU decal generation
+* layered relief creation
+* segmented sign workflows
+* independent slicer settings per shape
+* different infill/top patterns per region
+* region scaling/removal directly in the slicer
+
+Unlike many generators that produce a single merged slab, Oasis Tracer preserves independent printable geometry.
+
+---
+
+# Performance & Stability
+
+The program is optimized for:
+
+* fast generation
+* low resource usage
+* stable STL output
+* constrained region generation
+* predictable slicing behavior
+
+Even when non-manifold geometry exists, exported regions remain constrained inside their own physical zone and do not contaminate neighboring geometry.
+
+---
+
+# Safety / Trust
+
+Oasis Tracer:
+
+* does not require internet access
+* does not use telemetry
+* does not install background services
+* only processes user-selected files
+* only exports STL / SVG / 3MF output chosen by the user
+
+---
+
+# Documentation
+
+A full illustrated user manual is included with the release package.
+
+The manual contains:
+
+* workflow examples
+* slicer settings
+* blend modifier explanation
+* lightbox guidance
+* STL extraction workflows
+* relief design workflows
+* TPU/decal workflows
+
+---
+
+# Screenshots
+
+Add screenshots here:
+
+* Main interface
+* STL preview
+* Slicer preview
+* Real printed examples
+* Lightbox examples
+
+---
+
+# Download
+
+Official release:
+
+https://cults3d.com/en/3d-model/tool/oasis-tracer-v1-02-beta-image-to-3d-print
+
+---
+
+# Requirements
+
+* Windows 10 / 11 x64
+* Microsoft Visual C++ Redistributable
+
+---
+
+# Third Party Components
+
+* Clipper2
+* Region Hybrid algorithm
+* KonseptID Studio components
+
+---
+
+# Legal
+
+See:
+
+* LICENSE
+* EULA.txt
+* THIRD_PARTY_LICENSES.txt
+* README.md
+
+for licensing and usage details.

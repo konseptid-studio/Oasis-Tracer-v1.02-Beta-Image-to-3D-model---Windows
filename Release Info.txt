@@ -1,0 +1,53 @@
+Oasis Tracer – Fast Raster-to-3D Print & Cutter Vectorizer for Windows
+No dependencies. No AI prompts. No Limitations for processing, and no subscription.
+
+The program itself is private license, But the output(final product) is Free for commercial use!
+Feel free to sell or distribute your Oasis exported 3D models. Clause, included in the license,
+allows each User to: sell or distribute the product, created using Oasis Tracer.
+
+Oasis Tracer_v1.02 Beta is a lightweight, offline Windows application designed to
+turn flat vector illustrations, cartoons, logos, photographs or pop-art into high-quality,
+ready-to-print 3D models and cutter-ready SVG outlines in seconds.
+
+Simple. Fast. Made for real-world 3D printing and cutting.
+No subscription. No cloud. No bloat. Just drop your image, tweak a few settings if needed,
+and get quality STLs, 3MF, and SVG files ready for your machines.
+
+What it does:
+
+Loads common image formats (PNG, JPG with alpha transparency), and other formats
+Intelligently separates the image into clean color regions using advanced quantization, blending, and post-processing
+Converts regions into precise vector polygons while preserving holes and fine details
+Extrudes each region into solid 3D models with customizable thickness
+Exports one clean STL file per color or blend, plus SVG outlines for laser cutters and CNC,
+and fully assembled 3MF files
+Blends 3-4 flat layers using internal layering, to give another perspective to image>3D printing
+The program is optimized for creating stable STL models. Even if some are non-manifold, the models are constrained in their own
+zone and do not affect the quality or the slicing. Optimized for low resource and fast generation of stable models.
+
+Key Features:
+
+Fast performance — processes high-resolution (up to 5000px) images and exports all files in seconds
+Flexible color and layer blending system with TD — supports both sharp regions and smooth colour transitions
+High working resolution for capturing fine details even from complex photos
+Smart clean-up with island removal, majority smoothing, and polygon simplification
+Exports SVG outlines perfect for laser cutters, CNC machines, and vinyl/foil cutters (ideal for T-shirt printing and signage)
+Creates Light box add-ons, so you can light up you design.
+Exports 3MF files with all parts properly grouped and ready for Bambu Studio
+Runtime-editable color palettes (palette.txt and td_palette.json) — easily add or modify your preferred filament colors and names
+Colors and blends are suggested based on the image, but never hard-coded — full manual control remains in your slicer
+
+Why it works so well for 3D printing:
+
+Every region is exported as a separate model. This gives you complete freedom in the slicer to:
+
+Delete unwanted parts
+Scale individual segments in Z (different heights)
+Apply different textures, infills, or surface finishes per piece
+Quickly assign filaments for multi-colour or multi-material prints (Bambu AMS, Prusa XL, etc.)
+
+Perfect for:
+
+Artists and makers turning photos, logos, game sprites, and pop-art into 3D prints.
+Laser cutting and vinyl/foil applications for T-shirts, stickers, and signage
+Anyone who wants fast print-ready results without manual clean-up.

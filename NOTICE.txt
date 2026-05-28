@@ -1,0 +1,6 @@
+Oasis Tracer v1.02
+Copyright 2025-2026 Ivan Kolev, KonseptID Studio
+
+This product includes software developed at KonseptID Studio.
+
+For third-party licenses see THIRD_PARTY_LICENSES.txt
