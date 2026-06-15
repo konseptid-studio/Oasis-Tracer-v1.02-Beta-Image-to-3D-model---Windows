@@ -8,13 +8,13 @@ Oasis Tracer is a Windows x64 image-to-STL / SVG / 3MF generator designed for mu
 
 ## ✨ Key Features
 
-- Converts images into ready-to-print multicolor 3D models
+- Converts images into ready-to-print multicolor 3D models 
 - Exports **STL, SVG, and 3MF** formats
 - Optimized for **multicolor 3D printing** (Bambu Lab, Prusa, etc.)
 - Clean, physically separated color regions
 - No AI • Fully offline • One-time purchase
 - Commercial use of generated models allowed
-
+- WeightStackK Layered Quantizer
 ---
 
 ## 📥 Download
