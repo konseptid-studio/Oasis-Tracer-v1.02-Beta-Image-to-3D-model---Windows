@@ -1,0 +1,2 @@
+g++ -std=c++17 -O3 WeightStackK_Layered.cpp -o quantizer
+./quantizer image.jpg 12 1.4 3
